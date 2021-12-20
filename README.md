@@ -1,2 +1,3 @@
 # MosquitoOS
-The repo of the opensource velomobile Mosquito
+
+Ceci est le répertoire du projet Mosquito Opensource.
