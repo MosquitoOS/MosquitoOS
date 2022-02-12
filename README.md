@@ -25,7 +25,9 @@ mousse styrodur		                    plaque magasin bricolage ep 20mm env 10 eur
 contre plaque marine ou aviation	    95.12euros	cp aviation 1500x500mm ep1.5 prix=45euros+port, 1.5m2 devrait suffire	https://jr-contreplaque.fr			
 plaque carton ep 2 ou 3mm		        env 7m2 pour le carenage				
 scotch papier pour carton						
-plaque carton epaisse (nidabeille)pour les couples		ep15mm plaque 800x600 env4 plaques 5euros/plaque				
+plaque carton epaisse (nidabeille)pour les couples		ep15mm plaque 800x600 env4 plaques 5euros/plaque	
+Colle loctite 648 pour ficher les roulements								https://www.scootfast.net/loctite-bearing-sealant-5-ml.html
+
 plaques aluminium 1 et 1.5mm			https://www.blockenstock.fr/epaisseur-5-8mm-c102x3032238			
 tube alu diam25 lg 1m		            pour direction et divers				
 tube diam22.2	                        recup velo				
